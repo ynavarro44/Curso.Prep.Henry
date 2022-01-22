@@ -16,6 +16,8 @@
     "testURL": "http://localhost/"
   },
   "dependencies": {
+    "02": "^1.0.0",
+    "03": "^1.0.3",
     "axios": "^0.21.4",
     "git-remote-origin-url": "^3.1.0",
     "git-url-parse": "^11.6.0",
